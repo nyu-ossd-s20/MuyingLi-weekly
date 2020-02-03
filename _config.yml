@@ -5,7 +5,7 @@
 # CUSTOMIZE
 # Name of your site (displayed in the header)
 # This should be your name or nickname.
-name: Your Name
+name: Muying Li
 
 # CUSTOMIZE
 # Short bio or description aout you (displayed in the header)
@@ -25,11 +25,11 @@ avatar_alt_text: Avatar
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: ml5333@nyu.edu
   facebook:
   flickr:
   github: nyu-ossd-s20
-  instagram:
+  instagram: muying.li
   linkedin:
   pinterest:
   twitter:
